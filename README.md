@@ -6,6 +6,5 @@
 - Transformed and processed the data by using **DAX** to ensure data completeness and validity
 - Showed how the weather and weekends can affect the usage of the bike
 
-## Dataset and Tools
-- Microsoft Power BI
-- london_merged
+## Dataset used
+- london_merged.cvs
